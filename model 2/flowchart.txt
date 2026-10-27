@@ -1,0 +1,9 @@
+Sensor/Fake Data → Model 2 (Risk Prediction)
+        ↓
+   High/Moderate Risk?
+        ↓ YES
+   Capture Image → Model 1 (Fire Detection)
+        ↓
+   Fire Detected?
+        ↓ YES
+   🚨 ALERT SYSTEM
